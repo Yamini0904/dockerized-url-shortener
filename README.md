@@ -58,4 +58,4 @@ http://localhost:8000/docs
 
 ## 👩‍💻 Author
 
-Yamini Reddy
+Akkaloori Yamini 
